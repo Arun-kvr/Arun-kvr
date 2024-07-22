@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Machine learning projects**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data structures**
 
 - 📫 How to reach me **arunkvrofficial@gmail.com**
 
