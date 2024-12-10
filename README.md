@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/arun_kvr" target="blank"><img src="https://img.shields.io/twitter/follow/arun_kvr?logo=twitter&style=for-the-badge" alt="arun_kvr" /></a> </p>
 
-- 🔭 I’m currently working on **data handling project**
+- 🔭 I’m currently working on **Industrial automation projects**
 
 - 🌱 I’m currently learning **Data structures**
 
